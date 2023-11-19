@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "pdf-computer-icons-adobe-acrobat-encapsulated-postscript-pdf-907bf8fa39c3ca2f0c5224fc50834140.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
